@@ -25,7 +25,7 @@ export class AppComponent {
       previewUrl: `https://mini.s-shot.ru/1024x768/JPEG/1024/Z100/?https://mattjcarkeek.github.io/sitecopy/`
     },
     { 
-      name: 'Blog Copy-erator', 
+      name: 'Lone Star Song Searcher', 
       url: 'https://mattjcarkeek.github.io/songsearcher/',
       description: "Song Deletion for Lone Star",
       previewUrl: `https://mini.s-shot.ru/1024x768/JPEG/1024/Z100/?https://mattjcarkeek.github.io/songsearcher/`
